@@ -1,4 +1,62 @@
-# 🌐 Web Development Roadmap – Topics & Descriptions
+## 🎨 CSS & ⚡ JavaScript Topics – Roadmap
+
+## 🎨 CSS Topics
+1. **CSS Basics** – Selectors, properties, and values.  
+2. **Colors & Backgrounds** – Applying solid colors, gradients, and images.  
+3. **Box Model** – Margin, border, padding, and content.  
+4. **Display & Positioning** – Static, relative, absolute, fixed, sticky.  
+5. **Flexbox** – 1D layout system for aligning items.  
+6. **CSS Grid** – 2D layout system for complex designs.  
+7. **Typography** – Fonts, text alignment, spacing, and decoration.  
+8. **CSS Units** – px, em, rem, %, vh, vw, etc.  
+9. **Pseudo-classes & Pseudo-elements** – `:hover`, `:before`, `:after`, etc.  
+10. **Transitions & Animations** – Smooth changes and keyframes.  
+11. **Transforms** – Rotate, scale, skew, translate.  
+12. **Media Queries** – Making designs responsive.  
+13. **Variables (Custom Properties)** – Reusable values with `--var`.  
+14. **CSS Specificity & Inheritance** – How CSS rules are applied.  
+15. **Z-index & Stacking Context** – Controlling element layers.  
+16. **CSS Preprocessors (Sass, Less)** – Writing modular & maintainable CSS.  
+17. **Frameworks (Bootstrap, Tailwind)** – Faster styling with utilities.  
+18. **CSS Architecture (BEM, OOCSS, SMACSS)** – Organizing large CSS codebases.  
+
+---
+
+## ⚡ JavaScript Topics
+1. **JavaScript Basics** – Variables, data types, operators.  
+2. **Control Flow** – if/else, switch, loops.  
+3. **Functions** – Function declaration, expression, arrow functions.  
+4. **Scope & Hoisting** – How variables and functions are accessed.  
+5. **Objects & Arrays** – Data structures for storing collections.  
+6. **DOM Manipulation** – Accessing and updating elements dynamically.  
+7. **Events & Event Listeners** – Responding to user interactions.  
+8. **ES6+ Features** – let/const, template literals, destructuring, spread.  
+9. **Modules (import/export)** – Organizing code into reusable files.  
+10. **Promises & Async/Await** – Handling asynchronous operations.  
+11. **Callbacks** – Passing functions as arguments.  
+12. **Fetch API & AJAX** – Making HTTP requests.  
+13. **JSON** – Data exchange format between client & server.  
+14. **LocalStorage & SessionStorage** – Storing data in the browser.  
+15. **Error Handling** – try/catch and custom errors.  
+16. **Closures** – Functions with preserved scope.  
+17. **Event Loop & Call Stack** – How JavaScript executes code.  
+18. **Prototype & Inheritance** – Object-oriented JavaScript concepts.  
+19. **Classes** – Blueprint for creating objects.  
+20. **Higher-Order Functions** – Functions that take/return functions.  
+21. **Array Methods** – map, filter, reduce, forEach, find, etc.  
+22. **Functional Programming** – Pure functions, immutability, composition.  
+23. **Regular Expressions (Regex)** – Pattern matching in strings.  
+24. **ES Modules vs CommonJS** – Different module systems.  
+25. **JavaScript Design Patterns** – Singleton, Observer, Factory, etc.  
+26. **Event Delegation** – Efficient event handling on dynamic elements.  
+27. **Debouncing & Throttling** – Optimizing event-driven performance.  
+28. **Web APIs** – Geolocation, Canvas, Web Storage, Notifications.  
+29. **JavaScript Engines (V8, SpiderMonkey)** – How JS is executed internally.  
+30. **Testing (Jest, Mocha)** – Writing tests for JavaScript code.  
+
+--
+
+🌐 Web Development Roadmap – Topics & Descriptions
 
 ## 📌 Basics
 1. **HTML** – Standard markup language for structuring web content.  
