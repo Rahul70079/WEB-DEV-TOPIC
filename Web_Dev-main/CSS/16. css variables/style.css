@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 40px;
+}
+h1{
+    text-align: center;
+}
+
+.box{
+    --my-var: red; 
+    padding: 20px;
+    background-color: var(--my-var)
+    
+}
+
+.box h2 {
+    margin-bottom: 20px;
+}

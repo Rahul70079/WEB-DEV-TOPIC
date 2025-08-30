@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    /* height: 400px; */
+    border: 2px solid red;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+
+    display: none;
+
+}
+
+/* .block1 {
+    overflow: auto;
+} */
+
+.p1 {
+    border: 2px solid green;
+    margin-right: 100px;
+}
+
+.p1 {
+    clear: right;
+}
+
+.img1 {
+    float: right;
+    margin-left: 40px;
+}
+
+.img2{
+    float: left;
+}
+
+.p2{
+    clear: both;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    overflow: auto;
+}
